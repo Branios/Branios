@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Branios
-- 🍎 I’m interested in front-end and swift development
-- 🛠️ I’m currently learning JavaScript and Swift
+- 🍎 I’m interested in Swift and iOS, iPadOS and macOS development
+- 🛠️ I’m currently learning Swift
 
 <!---
 Branios/Branios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
